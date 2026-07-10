@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+E:\Altium\Projects\Tutorial_PCBs\LED_Tutorial\Project Outputs for LED_Tutorial\Pick Place\Pick Place for LED.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/07/26
+Time:       15:29
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description                     
+R2         360R         BottomLayer R0805     708.661       549.213       90       "RES SMD 360 OHM 1% 1/8W 0805"  
+D2         GREEN        BottomLayer LED0603G  708.661       283.464       90       "LED GREEN CLEAR CHIP 0603 SMD" 
+R1         360R         TopLayer    R0805     216.536       531.496       90       "RES SMD 360 OHM 1% 1/8W 0805"  
+J1         "1x2 Header" TopLayer    HDR1X2    511.811       404.331       0        "CONN HEADER VERT 2POS 2.54MM"  
+D1         GREEN        TopLayer    LED0603G  216.536       248.031       90       "LED GREEN CLEAR CHIP 0603 SMD" 
