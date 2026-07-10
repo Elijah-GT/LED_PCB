@@ -2,7 +2,7 @@
 
 A simple two-layer PCB designed to drive a green LED, built while learning Altium Designer's full workflow — schematic capture, footprint creation, PCB layout, polygon pours, and manufacturing outputs.
 
-![LED PCB 3D Render](images/pcb_render.png)
+![LED PCB 3D Render](pcb_render.png)
 
 
 ## What's Included
