@@ -1,4 +1,4 @@
-# LED PCB — Altium Designer Tutorial Project
+# LED PCB
 
 A simple two-layer PCB designed to drive a green LED, built while learning Altium Designer's full workflow — schematic capture, footprint creation, PCB layout, polygon pours, and manufacturing outputs.
 
